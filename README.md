@@ -1,5 +1,8 @@
 Memorandum
 
+time: 大二上
 
+Android 小项目--备忘录
 
-大二上的时候面试bbt技术部，简单做了下题目。Andorid的一个备忘录
+面试BBT技术部
+
